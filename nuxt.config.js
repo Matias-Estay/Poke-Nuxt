@@ -46,6 +46,10 @@ export default {
     // extra config e.g
     // BaseURL: 'https://link-to-API'
   },
+
+  generate: {
+    dir: 'dist'
+  },
   
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {

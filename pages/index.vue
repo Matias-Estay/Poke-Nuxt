@@ -14,6 +14,9 @@
           The digital encyclopedia created by Professor Oak is an invaluable tool 
           to Trainers in the Pokémon world.
         </p>
+        <p class="text-justify text-center">
+          Programado por Matías Ignacio Estay Cubillos.
+        </p>
       </b-row>
       <b-row class="justify-content-center">
         <NuxtLink class="poke-btn btn" to="/home">Get Started</NuxtLink>
