@@ -19,7 +19,7 @@ $ npm run generate
 
 Para ver el proyecto montado ingresar al siguiente enlace:
 
-https://nervous-shannon-1d582f.netlify.app/
+https://pokemonuxt.netlify.app/
 
 Se prefirió usar los sprites obtenidos desde la misma API y para solucionar tiempos de carga se creó un loader.
 
