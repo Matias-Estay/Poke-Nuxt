@@ -152,7 +152,7 @@ export default {
   },
   mounted(){
     this.cargando=true;
-    this.$axios.get('https://pokeapi.co/api/v2/pokemon?offset=0',{}).then((resultado)=>{
+    this.$axios.get('https://pokeapi.co/api/v2/pokemon?offset=0&limit=1118',{}).then((resultado)=>{
       console.log(resultado.data.results.length);
       for(var i =0;i<resultado.data.results.length;i++){
         resultado.data.results[i].name=resultado.data.results[i].name.charAt(0).toUpperCase() + resultado.data.results[i].name.slice(1)
