@@ -27,4 +27,3 @@ Como fue un proyecto pequeño no fue necesario crear versiones del trabajo ya qu
 
 Se utilizo bootstrapvue, axios y nuxt.
 
-también se realizó su versión en React.js
