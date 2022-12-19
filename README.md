@@ -17,13 +17,3 @@ $ npm run start
 $ npm run generate
 ```
 
-Para ver el proyecto montado ingresar al siguiente enlace:
-
-https://pokemonuxt.netlify.app/
-
-Se prefirió usar los sprites obtenidos desde la misma API y para solucionar tiempos de carga se creó un loader.
-
-Como fue un proyecto pequeño no fue necesario crear versiones del trabajo ya que tomo una tarde en hacerlo.
-
-Se utilizo bootstrapvue, axios y nuxt.
-
